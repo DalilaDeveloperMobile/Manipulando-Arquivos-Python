@@ -2,7 +2,7 @@
 ### Passos Iniciais Realizados Nesse Bootcamp Python AI Backend Developer. [dio_me](https://www.dio.me/)
 ### ✅Manipulando Arquivos em Python.
 
-### <img src="https://gifs.eco.br/wp-content/uploads/2021/06/gifs-de-coracao-7.gif" width="30px"> Operacao Leitura:
+### <img src="https://gifs.eco.br/wp-content/uploads/2021/06/gifs-de-coracao-7.gif" width="30px"> Operação Leitura:
 ```
 # Lembre-se de alterar o caminho do arquivo, para o caminho completo da sua máquina!
 
@@ -33,7 +33,7 @@ while len(linha := arquivo.readline()):
 
 arquivo.close()
 ```
-### <img src="https://gifs.eco.br/wp-content/uploads/2021/06/gifs-de-coracao-7.gif" width="30px"> Operacao Escrita:
+### <img src="https://gifs.eco.br/wp-content/uploads/2021/06/gifs-de-coracao-7.gif" width="30px"> OperaÇão Escrita:
 ```
 arquivo = open(
     "/home/guilherme/Projetos/dio/codigo-fonte/trilha-python-dio/05 - Manipulação de arquivos/teste.txt", "w"
