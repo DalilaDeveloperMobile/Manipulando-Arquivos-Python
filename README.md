@@ -33,7 +33,7 @@ while len(linha := arquivo.readline()):
 
 arquivo.close()
 ```
-### <img src="https://gifs.eco.br/wp-content/uploads/2021/06/gifs-de-coracao-7.gif" width="30px"> OperaÇão Escrita:
+### <img src="https://gifs.eco.br/wp-content/uploads/2021/06/gifs-de-coracao-7.gif" width="30px"> Operação Escrita:
 ```
 arquivo = open(
     "/home/guilherme/Projetos/dio/codigo-fonte/trilha-python-dio/05 - Manipulação de arquivos/teste.txt", "w"
